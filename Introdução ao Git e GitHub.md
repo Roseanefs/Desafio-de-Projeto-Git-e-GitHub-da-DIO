@@ -15,6 +15,8 @@ A **Git** é um sistema de controle de versão distribuído que possui código a
 
 
 
+
+
 A [**GitHub**](https://github.com/features) é a maior e mais avançada plataforma de desenvolvimento do mundo. Empresas e desenvolvedores podem criar, enviar e manter seus repositórios nesta plataforma utilizando diversas ferramentas para melhorar o negócio e com segurança, além de interagir com a comunidade. O usuário da plataforma tem a opção de deixar os projetos de forma privada ou visível ao público para divulgação e interação de outros usuários de forma que contribuam para a melhoria do seu projeto. 
 
 
@@ -22,9 +24,6 @@ A [**GitHub**](https://github.com/features) é a maior e mais avançada platafor
 #### Crie uma conta no GitHub:keyboard:
 
 [Inscrição aqui](https://github.com/)
-
-
-
 <img src="https://github.githubassets.com/images/modules/marketplace/marketplace-illustration-01.svg" alt="img" style="zoom: 50%;" />
 
 
