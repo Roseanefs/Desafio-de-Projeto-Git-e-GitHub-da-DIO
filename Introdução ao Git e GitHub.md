@@ -21,7 +21,8 @@ A [**GitHub**](https://github.com/features) é a maior e mais avançada platafor
 
 #### Crie uma conta no GitHub:keyboard:
 
-[Inscreva-se no GitHub](https://github.com/)
+[Inscrição aqui](https://github.com/)
+
 
 
 <img src="https://github.githubassets.com/images/modules/marketplace/marketplace-illustration-01.svg" alt="img" style="zoom: 50%;" />
