@@ -2,8 +2,7 @@
 
 
 
-A **Git** é um sistema de controle de versão distribuído que possui código aberto, onde o usuário pode desenvolver projetos tanto pequenos como grandes e é grátis. É possível instalar e configurar o Git no [Windows](https://comandosgit.github.io/), no [Mac](https://comandosgit.github.io/) ou no [Linux](https://comandosgit.github.io/). Após a instalação é necessário fazer um _git config_, ou seja, definir nome de usuário e endereço de e-mail, pois os commits no Git utilizam essas informações. Você sabe para que serve o git init, o git add, o git commit e o git push? Confira mais detalhes no link abaixo e aproveite para conhecer os [comandos](https://comandosgit.github.io/) básico do Git. 
-
+A **Git** é um sistema de controle de versão distribuído que possui código aberto, onde o usuário pode desenvolver projetos tanto pequenos como grandes e é grátis. É possível instalar e configurar o Git no [Windows](https://comandosgit.github.io/), no [Mac](https://comandosgit.github.io/) ou no [Linux](https://comandosgit.github.io/). Após a instalação é necessário fazer um _git config_, ou seja, definir nome de usuário e endereço de e-mail, pois os commits Git utilizam estas informações. Você sabe para que serve o git init, o git add, o git commit e o git push? Confira mais detalhes no link abaixo e aproveite para conhecer os [comandos](https://comandosgit.github.io/) básico do Git.
 
 
 ###### <img src="https://git-scm.com/images/logo@2x.png" alt="Git" style="zoom: 25%;" />
@@ -23,6 +22,7 @@ A [**GitHub**](https://github.com/features) é a maior e mais avançada platafor
 #### Crie uma conta no GitHub:keyboard:
 
 [Inscreva-se no GitHub](https://github.com/)
+
 
 <img src="https://github.githubassets.com/images/modules/marketplace/marketplace-illustration-01.svg" alt="img" style="zoom: 50%;" />
 
